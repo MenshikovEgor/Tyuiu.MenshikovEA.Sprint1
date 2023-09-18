@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.MenshikovEA.Sprint1.Task0.V0.Lib;
+using Tyuiu.MenshikovEA.Sprint1.Task0.V25.Lib;
 
-namespace Tyuiu.MenshikovEA.Sprint1.Task0.V0
+namespace Tyuiu.MenshikovEA.Sprint1.Task0.V25
 {
     class Program
     {
