@@ -11,6 +11,10 @@ namespace Tyuiu.MenshikovEA.Sprint1.Task6.V3.Lib
     {
         public string LastLetterWord(string value)
         {
+            string space = " ";
+
+
+
             string[] mass = value.Split(' ');
 
             string word = "";
